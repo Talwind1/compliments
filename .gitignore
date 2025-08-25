@@ -1,0 +1,17 @@
+# Node.js (server + client)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build output
+client/build/
+server/dist/
+
+# Environment files
+*.env
+
+# Logs
+*.log
+
+# System
+.DS_Store
